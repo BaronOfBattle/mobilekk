@@ -1,0 +1,21 @@
+{
+    "name": "Agendamento de Reuniões",
+    "short_name": "Agendamento",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#007bff",
+    "icons": [
+      {
+        "src": "/180.png",
+        "sizes": "180x180",
+        "type": "image/png"
+      },
+      {
+        "src": "/1024.png",
+        "sizes": "1024x1024",
+        "type": "image/png"
+      }
+    ]
+  }
+  
